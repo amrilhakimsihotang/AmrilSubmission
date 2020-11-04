@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amril Submission</string>
+    <string name="btkeluar">Keluar</string>
+    <string name="txtversi">beta tester 0.1a</string>
+    <string name="splash">Tugas Akhir untuk kelas Android Pemula.Versi beta tester 0.1a</string>
+    <string name="content_text">Tugas akhir Belajar Membuat Aplikasi Android untuk Pemula.SDK minimal yang terpasang API 14.\n
+    Nama Aplikasi : Submission sederhana- Tentang Dasar Catur Acrobatic.</string>
+    <string name="namaku">Nama:Amril Hakim Sihotang</string>
+    <string name="email">Email:gueamril@yahoo.com</string>
+    <string name="kelas">Kelas: Pemula</string>
+</resources>
